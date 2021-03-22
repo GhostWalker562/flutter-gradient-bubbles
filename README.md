@@ -1,16 +1,22 @@
-# message_gradient
+[![MOONSDONTBURN Header](https://i.imgur.com/1QHjcUZ.png)](https://moonsdontburn.design/)
+# Gradient Message Bubbles
+![Image Preview](./repo/thumbnail.jpg)
 
-A new Flutter project.
+Check out my YouTube channel! [MOONSDONTBURN](https://www.youtube.com/channel/UCurQRmT17EyOIrdPseiastg)
 
 ## Getting Started
+These instructions will help you get this project running on your local machine to test out the project.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+* Flutter ver. 2.0 or higher
 
-A few resources to get you started if this is your first Flutter project:
+### Running the project
+After cloning the project or downloading the project, open up `main.dart` in the lib folder and press run the project.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Thanks 😄
+Thank you for checking out the project, stay tuned for more and don't forget to support me on my social media. Supporting me
+really makes a difference! I hope to output more quality content and projects to help other Flutter developers pursue more complex
+and beautiful designs.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
